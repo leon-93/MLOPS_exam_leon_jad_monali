@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/189179581140202879/bf4e58a92ed74ac6aa5c83e4b6ffd6f8/artifacts
+end_time: 1715800290091
+entry_point_name: ''
+experiment_id: '189179581140202879'
+lifecycle_stage: active
+run_id: bf4e58a92ed74ac6aa5c83e4b6ffd6f8
+run_name: bustling-mole-719
+run_uuid: bf4e58a92ed74ac6aa5c83e4b6ffd6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715787652757
+status: 3
+tags: []
+user_id: leonm

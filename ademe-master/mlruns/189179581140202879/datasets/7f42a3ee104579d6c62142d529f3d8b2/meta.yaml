@@ -1,0 +1,13 @@
+digest: 8c84218d
+name: dataset
+profile: '{"num_rows": 626492, "num_elements": 5011936}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Etiquette_GES", "required":
+  true}, {"type": "double", "name": "Type_b\u00e2timent", "required": true}, {"type":
+  "double", "name": "Surface_habitable_logement", "required": true}, {"type": "double",
+  "name": "Conso_5_usages_\u00e9_finale", "required": true}, {"type": "double", "name":
+  "Conso_chauffage_\u00e9_finale", "required": true}, {"type": "double", "name": "Conso_ECS_\u00e9_finale",
+  "required": true}, {"type": "double", "name": "Emission_GES_5_usages", "required":
+  true}, {"type": "double", "name": "Emission_GES_chauffage", "required": true}]}'
+source: '{"tags": {"mlflow.user": "leonm", "mlflow.source.name": "c:/Users/leonm/OneDrive/Documents/OneDrive/Bureau/EngieProjet/MLopsM2/ademe-master/src/train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "02502cc2e651d60b054cc7f0c4373570ec503665"}}'
+source_type: code

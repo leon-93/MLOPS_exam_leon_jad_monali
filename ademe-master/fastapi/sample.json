@@ -1,0 +1,16 @@
+[{
+    "version_dpe": 2,
+    "methode_du_dpe": 2,
+    "categorie_erp": 5,
+    "secteur_activite": 25,
+    "type_energie_principale_chauffage": 6,
+    "type_energie_n_1": 4,
+    "type_usage_energie_n_1": 6,
+    "conso_kwhep_m2_an": 440.9,
+    "emission_ges_kgco2_m2_an": 58.7,
+    "surface_utile": 177.1,
+    "conso_finale_energie": 108961.01,
+    "conso_primaire_energie": 131391.2,
+    "frais_annuel_energie": 8739.01,
+    "annee_construction": 1996
+}]

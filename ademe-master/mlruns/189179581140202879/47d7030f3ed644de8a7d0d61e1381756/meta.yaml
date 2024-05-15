@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/189179581140202879/47d7030f3ed644de8a7d0d61e1381756/artifacts
+end_time: 1715534548531
+entry_point_name: ''
+experiment_id: '189179581140202879'
+lifecycle_stage: active
+run_id: 47d7030f3ed644de8a7d0d61e1381756
+run_name: fun-roo-830
+run_uuid: 47d7030f3ed644de8a7d0d61e1381756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715530629402
+status: 4
+tags: []
+user_id: leonm

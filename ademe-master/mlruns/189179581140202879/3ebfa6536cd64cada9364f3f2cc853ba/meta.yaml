@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/189179581140202879/3ebfa6536cd64cada9364f3f2cc853ba/artifacts
+end_time: 1715800306214
+entry_point_name: ''
+experiment_id: '189179581140202879'
+lifecycle_stage: active
+run_id: 3ebfa6536cd64cada9364f3f2cc853ba
+run_name: skittish-fly-658
+run_uuid: 3ebfa6536cd64cada9364f3f2cc853ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715800299525
+status: 4
+tags: []
+user_id: leonm
